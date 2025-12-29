@@ -162,7 +162,7 @@ Buka browser ke `http://localhost:3000`
 
 ## 👨‍💻 Developer
 
-**Nama:** [Ichfhan]  
+**Nama:** Ichfhan SP
 **Mata Kuliah:** Web Service - Praktik  
 **Semester:** 7
 
